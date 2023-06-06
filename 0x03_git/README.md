@@ -1,1 +1,1 @@
-atomic structure
+not empty
